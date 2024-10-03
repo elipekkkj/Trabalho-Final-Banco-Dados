@@ -68,7 +68,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  <br />
  <sub><b>Larissa Teodoro</b></sub></a> <a href="https://github.com/lari-blip"></a></td>
  
-  <td align="center"><a href="https://github.com/elipekkkj"><img style="border-radius: 50%" src="https://cdn.discordapp.com/attachments/1266769910449704970/1278163905973063721/177887930.png?ex=66cfce66&is=66ce7ce6&hm=7a6e7de2f74fdeb828a437fd37a708c1519740f85824e11732d5fc80f6154b91&" width="100px" alt=""/>
+  <td align="center"><a href="https://github.com/elipekkkj"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/177887930?s=400&u=4c5781fb5417b095602e6b10ad2b87dd0d6e836e&v=4" width="100px" alt=""/>
  <br />
  <sub><b>Luis Filipe</b></sub></a> <a href="https://github.com/elipekkkj"></a></td>
 
